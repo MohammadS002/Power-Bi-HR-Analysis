@@ -1,0 +1,1 @@
+An HR analytics dashboard presenting employee demographics, attrition trends, job satisfaction, diversity, and performance ratings, helping identify key drivers of employee turnover and workforce insights.
